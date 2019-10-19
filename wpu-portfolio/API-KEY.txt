@@ -1,0 +1,9 @@
+api-key youtube : AIzaSyD-MsgWYxBR4lwB9XcsxlYDuRKldAzYcQk
+
+wpuRestClient - instagram
+CLIENT INFO
+CLIENT ID
+ef873760c0894446af6d22385e4c21d3
+CLIENT STATUS
+Sandbox Mode
+access_token =   1557304490.ef87376.619e87bc87c8472d837dbd7af09836e1

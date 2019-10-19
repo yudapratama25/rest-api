@@ -1,0 +1,30 @@
+[
+	{
+		"nama" : "Yuda Pratama",
+		"umur" : 17,
+		"nisn" : "0010259484",
+		"lulus" : true,
+		"hobby" : [
+			"coding",
+			"mancing"
+		],
+		"pembimbing" : {
+			"pembimbing1" : "Kak Vicky",
+			"pembimbing2" : "Kak Ipul"
+		}
+	},
+	{
+		"nama" : "Hariyanto",
+		"umur" : 17,
+		"nisn" : "0020459385",
+		"lulus" : false,
+		"hobby" : [
+			"game",
+			"renang"
+		],
+		"pembimbing" : {
+			"pembimbing1" : "Kak Kiki",
+			"pembimbing2" : "Pak Hendra"
+		}
+	}
+]
